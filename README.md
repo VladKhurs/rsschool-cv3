@@ -1,1 +1,2 @@
-# rsschool-cv3
+https://VladKhurs.github.io/rsschool-cv/cv
+https://VladKhurs.github.io/rsschool-cv/
